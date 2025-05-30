@@ -1,0 +1,12 @@
+2025-04-14 15:37:56,059 [INFO] Activator:170 - 
+
+
+2025-04-14 15:37:56,059 [INFO] Activator:171 - !SESSION log4j initialized
+2025-04-14 15:41:03,285 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2025-04-14 15:41:03,285 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2025-04-14 15:41:03,285 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2025-04-14 15:41:03,285 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2025-04-14 15:41:03,285 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2025-04-14 15:41:07,145 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] toolchainItems.length=====1
+2025-04-14 15:45:56,340 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2025-04-14 15:53:36,322 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
