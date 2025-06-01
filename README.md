@@ -1,8 +1,8 @@
 # ⚙️ SEB2025 - Sistemas Embarcados
 
-![GitHub repo size](https://img.shields.io/github/repo-size/viniciusamaralvilela/DPL_2025?color=blue&style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/viniciusamaralvilela/DPL_2025?color=green&style=for-the-badge)
-![GitHub license](https://img.shields.io/github/license/viniciusamaralvilela/DPL_2025?color=yellow&style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/viniciusamaralvilela/SEB2025?color=blue&style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/viniciusamaralvilela/SEB2025?color=green&style=for-the-badge)
+![GitHub license](https://img.shields.io/github/license/viniciusamaralvilela/SEB2025?color=yellow&style=for-the-badge)
 
 > 📁 Repositório da disciplina **Sistemas Embarcados – 2025**  
 > 💻 Projetos práticos focados em programação para microcontroladores STM32, uso de displays, controle de GPIO e lógica de programação em linguagem C.
@@ -11,7 +11,7 @@
 
 ## 📌 O que é este projeto?
 
-Este repositório reúne os projetos e exercícios práticos realizados na disciplina DPL em 2025.  
+Este repositório reúne os projetos e exercícios práticos realizados na disciplina SEB em 2025.  
 Aqui você encontrará códigos em C para STM32, exemplos de controle de displays (ST7789), jogos simples como memória e lógica com botões e LEDs.
 
 Ideal para quem quer aprender programação embarcada e desenvolvimento com STM32!
@@ -38,7 +38,7 @@ Ideal para quem quer aprender programação embarcada e desenvolvimento com STM3
 ### 📥 Instalando o projeto
 
 ```bash
-git clone https://github.com/viniciusamaralvilela/DPL_2025.git
+git clone https://github.com/viniciusamaralvilela/SEB2025.git
 cd DPL_2025
 ```
 
