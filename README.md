@@ -23,7 +23,7 @@ Ideal para quem quer aprender programação embarcada e desenvolvimento com STM3
 - 🔹 **STM32F103C8** — microcontrolador  
 - 🔹 **Display ST7789/ST7735** — interface gráfica  
 - 🔹 **Linguagem C** — para programação embarcada  
-- 🔹 **STM32CubeIDE / PlatformIO** — ambientes para desenvolvimento e upload do código
+- 🔹 **STM32CubeIDE** — ambientes para desenvolvimento e upload do código
 
 ---
 
