@@ -1,0 +1,105 @@
+14:47:31 **** Incremental Build of configuration Debug for project MegaSenaDisplay ****
+make -j4 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m3 -std=gnu11 -g3 -DUSE_HAL_DRIVER -DSTM32F103xB -DDEBUG -c -I../Core/Inc -I../Drivers/STM32F1xx_HAL_Driver/Inc -I../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Core/Src/main.o"
+../Core/Src/main.c: In function 'main':
+../Core/Src/main.c:111:14: warning: implicit declaration of function 'rand' [-Wimplicit-function-declaration]
+       num = (rand()%60)+1;
+              ^~~~
+arm-none-eabi-gcc -o "MegaSenaDisplay.elf" @"objects.list"   -mcpu=cortex-m3 -T"C:\Users\alunos\STM32CubeIDE\STM32_2025\MegaSenaDisplay\STM32F103C8TX_FLASH.ld" --specs=nosys.specs -Wl,-Map="MegaSenaDisplay.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: MegaSenaDisplay.elf
+ 
+arm-none-eabi-objdump -h -S  MegaSenaDisplay.elf  > "MegaSenaDisplay.list"
+arm-none-eabi-objcopy  -O binary  MegaSenaDisplay.elf  "MegaSenaDisplay.bin"
+arm-none-eabi-size   MegaSenaDisplay.elf 
+   text	   data	    bss	    dec	    hex	filename
+  13436	    128	   1728	  15292	   3bbc	MegaSenaDisplay.elf
+Finished building: default.size.stdout
+ 
+Finished building: MegaSenaDisplay.bin
+ 
+Finished building: MegaSenaDisplay.list
+ 
+14:47:36 **** Incremental Build of configuration Debug for project MegaSenaDisplay ****
+make -j4 all 
+arm-none-eabi-size   MegaSenaDisplay.elf 
+   text	   data	    bss	    dec	    hex	filename
+  13436	    128	   1728	  15292	   3bbc	MegaSenaDisplay.elf
+Finished building: default.size.stdout
+ 
+14:48:52 **** Incremental Build of configuration Debug for project MegaSenaDisplay ****
+make -j4 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m3 -std=gnu11 -g3 -DUSE_HAL_DRIVER -DSTM32F103xB -DDEBUG -c -I../Core/Inc -I../Drivers/STM32F1xx_HAL_Driver/Inc -I../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Core/Src/main.o"
+../Core/Src/main.c: In function 'main':
+../Core/Src/main.c:111:14: warning: implicit declaration of function 'rand' [-Wimplicit-function-declaration]
+       num = (rand()%60)+1;
+              ^~~~
+arm-none-eabi-gcc -o "MegaSenaDisplay.elf" @"objects.list"   -mcpu=cortex-m3 -T"C:\Users\alunos\STM32CubeIDE\STM32_2025\MegaSenaDisplay\STM32F103C8TX_FLASH.ld" --specs=nosys.specs -Wl,-Map="MegaSenaDisplay.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: MegaSenaDisplay.elf
+ 
+arm-none-eabi-objdump -h -S  MegaSenaDisplay.elf  > "MegaSenaDisplay.list"
+arm-none-eabi-objcopy  -O binary  MegaSenaDisplay.elf  "MegaSenaDisplay.bin"
+arm-none-eabi-size   MegaSenaDisplay.elf 
+   text	   data	    bss	    dec	    hex	filename
+  13436	    128	   1728	  15292	   3bbc	MegaSenaDisplay.elf
+Finished building: default.size.stdout
+ 
+Finished building: MegaSenaDisplay.bin
+Finished building: MegaSenaDisplay.list
+ 
+ 
+14:49:24 **** Incremental Build of configuration Debug for project MegaSenaDisplay ****
+make -j4 all 
+arm-none-eabi-size   MegaSenaDisplay.elf 
+   text	   data	    bss	    dec	    hex	filename
+  13436	    128	   1728	  15292	   3bbc	MegaSenaDisplay.elf
+Finished building: default.size.stdout
+ 
+14:50:43 **** Incremental Build of configuration Debug for project MegaSenaDisplay ****
+make -j4 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m3 -std=gnu11 -g3 -DUSE_HAL_DRIVER -DSTM32F103xB -DDEBUG -c -I../Core/Inc -I../Drivers/STM32F1xx_HAL_Driver/Inc -I../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Core/Src/main.o"
+../Core/Src/main.c: In function 'main':
+../Core/Src/main.c:111:14: warning: implicit declaration of function 'rand' [-Wimplicit-function-declaration]
+       num = (rand()%60)+1;
+              ^~~~
+arm-none-eabi-gcc -o "MegaSenaDisplay.elf" @"objects.list"   -mcpu=cortex-m3 -T"C:\Users\alunos\STM32CubeIDE\STM32_2025\MegaSenaDisplay\STM32F103C8TX_FLASH.ld" --specs=nosys.specs -Wl,-Map="MegaSenaDisplay.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: MegaSenaDisplay.elf
+ 
+arm-none-eabi-objdump -h -S  MegaSenaDisplay.elf  > "MegaSenaDisplay.list"
+arm-none-eabi-objcopy  -O binary  MegaSenaDisplay.elf  "MegaSenaDisplay.bin"
+arm-none-eabi-size   MegaSenaDisplay.elf 
+   text	   data	    bss	    dec	    hex	filename
+  13444	    128	   1728	  15300	   3bc4	MegaSenaDisplay.elf
+Finished building: default.size.stdout
+ 
+Finished building: MegaSenaDisplay.bin
+ 
+Finished building: MegaSenaDisplay.list
+ 
+14:51:31 **** Incremental Build of configuration Debug for project MegaSenaDisplay ****
+make -j4 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m3 -std=gnu11 -g3 -DUSE_HAL_DRIVER -DSTM32F103xB -DDEBUG -c -I../Core/Inc -I../Drivers/STM32F1xx_HAL_Driver/Inc -I../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Core/Src/main.o"
+../Core/Src/main.c: In function 'main':
+../Core/Src/main.c:111:14: warning: implicit declaration of function 'rand' [-Wimplicit-function-declaration]
+       num = (rand()%60)+1;
+              ^~~~
+arm-none-eabi-gcc -o "MegaSenaDisplay.elf" @"objects.list"   -mcpu=cortex-m3 -T"C:\Users\alunos\STM32CubeIDE\STM32_2025\MegaSenaDisplay\STM32F103C8TX_FLASH.ld" --specs=nosys.specs -Wl,-Map="MegaSenaDisplay.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: MegaSenaDisplay.elf
+ 
+arm-none-eabi-objdump -h -S  MegaSenaDisplay.elf  > "MegaSenaDisplay.list"
+arm-none-eabi-objcopy  -O binary  MegaSenaDisplay.elf  "MegaSenaDisplay.bin"
+arm-none-eabi-size   MegaSenaDisplay.elf 
+   text	   data	    bss	    dec	    hex	filename
+  13444	    128	   1728	  15300	   3bc4	MegaSenaDisplay.elf
+Finished building: default.size.stdout
+ 
+Finished building: MegaSenaDisplay.bin
+Finished building: MegaSenaDisplay.list
+ 
+ 
+14:55:38 **** Incremental Build of configuration Debug for project MegaSenaDisplay ****
+make -j4 all 
+arm-none-eabi-size   MegaSenaDisplay.elf 
+   text	   data	    bss	    dec	    hex	filename
+  13444	    128	   1728	  15300	   3bc4	MegaSenaDisplay.elf
+Finished building: default.size.stdout
+ 
