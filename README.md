@@ -5,8 +5,8 @@
 > ETE "FMC" - Desenvolvimento de Sistemas
 
 ### 👨‍🏫 Professor(a):
-> Daniel Mosca
-- 🔗 [Sobre]([[https://github.com/joseandery](https://www.linkedin.com/in/daniel-albino-mosca-rodrigues-20a290102/)](https://www.escavador.com/sobre/7154744/ana-leticia-gomes-goncalves))
+> Ana leticia Gonçalves 
+- 🔗 [Sobre](https://www.escavador.com/sobre/7154744/ana-leticia-gomes-goncalves)
 
 ---
 
