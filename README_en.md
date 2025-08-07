@@ -1,3 +1,4 @@
+[Portuguese](README.md)
 # 📘 Embedded Systems Tasks
 
 ### 🏫 School/Course:
