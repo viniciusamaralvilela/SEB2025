@@ -6,7 +6,7 @@
 
 ### 👨‍🏫 Teacher:
 > Ana leticia Gonçalves  
-- 🔗 [About](https://www.escavador.com/sobre/7154744/ana-leticia-gomes-goncalves)
+- 🔗 [About](http://lattes.cnpq.br/9312282070920913)
 
 ---
 
