@@ -34,6 +34,7 @@
 ├── 📁 MegaSena              # Simulação de sorteio da Mega Sena
 ├── 📁 MegaSenaDisplay       # Exibição dos resultados da Mega Sena
 ├── 📁 Srand                 # Exemplos de uso da função srand
+├── 📁 RTOS                  # Usando RTOS em aplicações 
 └── 📄 README.md 
 ```
 
