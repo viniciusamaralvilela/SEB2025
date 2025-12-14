@@ -34,6 +34,7 @@
 ├── 📁 MegaSena              # Mega Sena lottery simulation
 ├── 📁 MegaSenaDisplay       # Display of Mega Sena results
 ├── 📁 Srand                 # Examples using the srand function
+├── 📁 RTOS                  # Using RTOS in applications
 └── 📄 README.md 
 ```
 
